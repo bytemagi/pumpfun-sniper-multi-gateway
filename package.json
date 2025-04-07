@@ -1,0 +1,18 @@
+{
+  "name": "pumpdotfun-snipe-bot-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.1",
+    "@solana/spl-token": "^0.4.9",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "jito-ts": "^4.1.1",
+    "tweetnacl": "^1.0.3"
+  },
+  "scripts": {
+    "jito": "ts-node jito.ts",
+    "next": "ts-node next.ts"
+  }
+}
