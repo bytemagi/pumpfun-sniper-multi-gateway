@@ -30,7 +30,9 @@ Ofc not.
   Once we use smart contract , we can skip get pool reserve token balance and pool info
 - Build Racing Transaction
   What is racing transcation ?
+  
   ![image](https://github.com/user-attachments/assets/8c5224f7-bc5e-4498-8a8e-134e9420e726)
+  
   As you can see , we submit multiple transaction but only first one is confirmed
   Once one transaction is confirmed , we make others failed.
   Like Race.
