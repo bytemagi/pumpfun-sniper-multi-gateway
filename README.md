@@ -46,3 +46,5 @@ Ofc not.
 - We should calc all args without rpc call
 it means we have to calc and make our mind to sell or not in transaction parsing 
 Other things are same as above.
+
+# pumpfun-racing-plugin-rust-sniper-bot ( Open to Discuss )
